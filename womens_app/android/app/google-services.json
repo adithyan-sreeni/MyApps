@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "226069173319",
+    "project_id": "womansapp-4d9e3",
+    "storage_bucket": "womansapp-4d9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226069173319:android:b840f03034453ce4ff0d62",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRXmo54eGXVgIZb8ZdwA7ACpbH5_5Of8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226069173319:android:3f329e3df43dd5b9ff0d62",
+        "android_client_info": {
+          "package_name": "com.example.login_page_logic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRXmo54eGXVgIZb8ZdwA7ACpbH5_5Of8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226069173319:android:43058f996bd27a34ff0d62",
+        "android_client_info": {
+          "package_name": "com.example.womens_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpRXmo54eGXVgIZb8ZdwA7ACpbH5_5Of8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
